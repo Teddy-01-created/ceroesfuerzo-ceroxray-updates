@@ -1,0 +1,15 @@
+{
+  "project": "CeroEsfuerzoCeroXray",
+  "manifest_version": 1,
+  "pack_version": "0.1.0",
+  "minecraft_version": "1.20.1",
+  "loader": {
+    "name": "Forge",
+    "version": "47.4.23"
+  },
+  "changelog": [
+    "Primera versión del sistema de actualizaciones.",
+    "Preparación del catálogo de mods."
+  ],
+  "mods": []
+}
