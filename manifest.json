@@ -8,8 +8,31 @@
     "version": "47.4.23"
   },
   "changelog": [
-    "Primera versión del sistema de actualizaciones.",
-    "Preparación del catálogo de mods."
+    "Primera prueba del catálogo de mods.",
+    "Añadido SecurityCraft 1.10.2.1.",
+    "Añadido Advanced Netherite 2.1.3.",
+    "Preparación del sistema de gestión de mods."
   ],
-  "mods": []
+  "mods": [
+    {
+      "id": "securitycraft",
+      "name": "SecurityCraft",
+      "version": "1.10.2.1",
+      "filename": "[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "source": "modrinth",
+      "project_id": "v8jzRtAt",
+      "version_id": "PhNy7dJx",
+      "required": true
+    },
+    {
+      "id": "advancednetherite",
+      "name": "Advanced Netherite",
+      "version": "2.1.3",
+      "filename": "advancednetherite-forge-2.1.3-1.20.1.jar",
+      "source": "modrinth",
+      "project_id": "CFX9ftUJ",
+      "version_id": "DW4je0EN",
+      "required": true
+    }
+  ]
 }
