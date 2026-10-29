@@ -353,8 +353,8 @@
       ]
     },
     {
-      "id": "just_enough_items_jei"
-      "name": "Just Enough Items (JEI)"
+      "id": "just_enough_items_jei",
+      "name": "Just Enough Items (JEI)",
       "version": "15.59.0.212",
       "filename": "jei-1.20.1-forge-15.59.0.212.jar",
       "required": true,
