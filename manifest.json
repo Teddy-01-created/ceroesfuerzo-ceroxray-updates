@@ -368,7 +368,7 @@
     {
       "id":"justleveling",
       "name": "Just Leveling",
-      
+      "version": "1.7",
       "filename": "justleveling-forge-1.20.x-v1.7.jar",
       "required": true,
       "sources": [
@@ -418,7 +418,96 @@
       ]
     },
     {
-      "id":"
+      "id": "legendarytooltips",
+      "name": "Legendary Tooltips",
+      "version": "1.4.5",
+      "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "JhxD2e6J"
+        }
+      ]
+    },
+    {
+      "id":"lionfishapi",
+      "name": "Lionfish Api",
+      "version": "3.0",
+      "filename": "lionfishapi-3.0.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "CPftDBcY"
+        }
+      ]
+    },
+    {
+      "id": "lootr",
+      "name": "Lootr",
+      "version": "0.7.35.94",
+      "filename": "lootr-forge-1.20-0.7.35.94.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "mWTXC1ZX"
+        }
+      ]
+    },
+    {
+      "id": "mossylib",
+      "name": "Mossy Lib",
+      "version": "1.6.0",
+      "filename": "MossyLib-1.6.0+1.20.1+forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "B8d1ZLpg"
+        }
+      ]
+    },
+    {
+      "id": "mutantmonsters",
+      "name": "Mutant Monsters",
+      "version": "8.0.8",
+      "filename": "MutantMonsters-v8.0.8-1.20.1-Forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "CUgYzMnF"
+        }
+      ]
+    },
+    {
+      "id": "oculus",
+      "name": "Oculus",
+      "version": "1.6.9",
+      "filename": "oculus-mc1.20.1-1.6.9.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "6xfXhsvf"
+        }
+      ]
+    },
+    {
+      "id": "paraglider",
+      "name": "Paraglider",
+      "version": "20.1.3",
+      "filename": "Paraglider-forge-20.1.3.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "nudKlXXT"
+        }
+      ]
+    }
   ],
   "texture_packs": []
 }
