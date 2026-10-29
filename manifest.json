@@ -52,7 +52,124 @@
           "version_id": "lTAAe4sZ"
         }
       ]
-    }
+    },
+    {
+      "id": "antixray",
+      "name": "AntiXray",
+      "version": "1.4.6",
+      "filename": "antixray-forge-1.4.6+1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "ruAUEszF"
+        }
+      ]
+    },
+    {
+      "id": "appleskin",
+      "name": "Apple Skin",
+      "version": "2.5.1",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "XdXDExVF"
+        }
+      ]
+    },
+    {
+      "id": "aquaculture",
+      "name": "Aquaculture",
+      "version": "2.5.7",
+      "filename": "Aquaculture-1.20.1-2.5.7.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "wNiFoROs"
+        }
+      ]
+    },
+    {
+      "id": "architectury",
+      "name": "Architectury",
+      "version": "9.2.14",
+      "filename":"architectury-9.2.14-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "1MKTLiiG"
+        }
+      ]
+    },
+    {
+      "id": "caelus",
+      "name": "Caelus Forge",
+      "version": "3.2.0",
+      "filename": "caelus-forge-3.2.0+1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "mRry0DgY"
+        }
+      ]
+    },
+    {
+      "id": "carryon",
+      "name": "Carry On",
+      "version": "2.1.2.7",
+      "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "edGQD16r"
+        }
+      ]
+    },
+    {
+      "id": "comforts",
+      "name": "Comforts",
+      "version": "6.4.0",
+      "filename": "comforts-forge-6.4.0+1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "gBDsc134"
+        }
+      ]
+    },
+    {
+      "id": "coroutil",
+      "name": "Coroutil",
+      "version": "1.3.7",
+      "filename": "coroutil-forge-1.20.1-1.3.7.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "6rPDKAT8"
+        }
+      ]
+    },
+    {
+      "id": "corpse",
+      "name": "Corpse",
+      "version": "1.0.23",
+      "filename": "corpse-forge-1.20.1-1.0.23.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "7fc0hJN6"
+        }
+      ]
+    },
   ],
   "texture_packs": []
 }
