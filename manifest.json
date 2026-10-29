@@ -1,16 +1,16 @@
 {
   "project": "CeroEsfuerzoCeroXray",
   "manifest_version": 2,
-  "pack_version": "0.2.1",
+  "pack_version": "0.2.2",
   "minecraft_version": "1.20.1",
   "loader": {
     "name": "Forge",
     "version": "47.4.23"
   },
   "changelog": [
-    "Actualizado el manifiesto al formato v2.",
-    "Configuradas versiones exactas de SecurityCraft y Advanced Netherite desde Modrinth.",
-    "Preparado el esquema de fuentes múltiples para futuras alternativas autorizadas."
+    "Se añade CurseForge como respaldo para Advanced Netherite 2.1.3.",
+    "Modrinth sigue siendo la fuente prioritaria.",
+    "SecurityCraft conserva su fuente verificada de Modrinth hasta confirmar el archivo exacto de CurseForge."
   ],
   "mods": [
     {
@@ -36,6 +36,11 @@
         {
           "type": "modrinth",
           "version_id": "DW4je0EN"
+        },
+        {
+          "type": "curseforge",
+          "project_id": 495336,
+          "file_id": 5401035
         }
       ]
     }
