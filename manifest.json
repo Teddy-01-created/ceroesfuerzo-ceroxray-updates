@@ -351,7 +351,74 @@
           "version_id": "PDIowNff"
         }
       ]
-    }
+    },
+    {
+      "id": "just_enough_items_jei"
+      "name": "Just Enough Items (JEI)"
+      "version": "15.59.0.212",
+      "filename": "jei-1.20.1-forge-15.59.0.212.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "IrfJO7PN"
+        }
+      ]
+    },
+    {
+      "id":"justleveling",
+      "name": "Just Leveling",
+      
+      "filename": "justleveling-forge-1.20.x-v1.7.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id":"jIVgUpOb"
+        }
+      ]
+    },
+    {
+      "id":"kotlinfor",
+      "name": "Kotlinfor",
+      "version": "4.12.0",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "Zsh14XeQ"
+        }
+      ]
+    },
+    {
+      "id": "l_enders_cataclysm",
+      "name": "L_Enders_Cataclysm",
+      "version": "3.31",
+      "filename": "L_Enders_Cataclysm-3.31.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "C3H0azzB"
+        }
+      ]
+    },
+    {
+      "id": "leafmealone",
+      "name": "leaf_me_alone",
+      "version": "1.1.0",
+      "filename": "leafmealone-1.1.0.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "sjsRkSWq"
+        }
+      ]
+    },
+    {
+      "id":"
   ],
   "texture_packs": []
 }
