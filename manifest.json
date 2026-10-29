@@ -227,7 +227,7 @@
       "name": "Dungeons Arise",
       "version": "2.1.58"
       "filename": "DungeonsArise-1.20.x-2.1.58-release.jar",
-      "required": "true,
+      "required": true,
       "sources": [
         {
           "type": "modrinth",
