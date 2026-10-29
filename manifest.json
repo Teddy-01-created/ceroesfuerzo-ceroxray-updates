@@ -169,6 +169,84 @@
           "version_id": "7fc0hJN6"
         }
       ]
+    },
+    {
+      "id": "creativecore",
+      "name": "Creative Core"
+      "version": "2.12.40",
+      "filename": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "ChKayKur"
+        }
+      ]
+    },
+    {
+      "id": "curios",
+      "name": "Curios API",
+      "version": "5.14.1",
+      "filename": "curios-forge-5.14.1+1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "IPQlZkz1"
+        }
+      ]
+    },
+    {
+      "id": "distantfriends",
+      "name": "Distant Friends",
+      "version": "0.5.6",
+      "filename": "DistantFriends-forge-1.20.1-0.5.6.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "Rqieb9Fl"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsplus",
+      "name": "Dungeons Plus",
+      "version": "1.5.0",
+      "filename": "dungeons_plus-1.20.1-1.5.0.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "PmMZr5jQ"
+        }
+      ]
+    },
+    {
+      "id": "dungeonsarise",
+      "name": "Dungeons Arise",
+      "version": "2.1.58"
+      "filename": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "required": "true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "6hQpx5Tc"
+        }
+      ]
+    },
+    {
+      "id": "dynamiclights",
+      "name": "Dynamic Lights",
+      "version": "1.9",
+      "filename": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "Ag9747sk"
+        }
+      ]
     }
   ],
   "texture_packs": []
