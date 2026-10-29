@@ -172,7 +172,7 @@
     },
     {
       "id": "creativecore",
-      "name": "Creative Core"
+      "name": "Creative Core",
       "version": "2.12.40",
       "filename": "CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
       "required": true,
