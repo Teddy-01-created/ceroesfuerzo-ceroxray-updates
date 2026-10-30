@@ -718,6 +718,14 @@
       "filename": "xaerominimap-forge-1.20.1-26.6.0.jar",
       "required": true,
       "sources": []
+    },
+    {
+      "id": "balm",
+      "name": "Balm",
+      "version": "7.3.44",
+      "filename": "balm-forge-1.20.1-7.3.44.jar",
+      "required": true,
+      "sources": []
     }
   ],
   "texture_packs": []
