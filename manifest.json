@@ -717,6 +717,19 @@
       ]
     },
     {
+      "id": "a_good_place",
+      "name": "A Good Place",
+      "version": "1.2.8",
+      "filename": "a_good_place-1.20-1.2.8.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "k6rtjTCX"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
