@@ -756,6 +756,19 @@
       ]
     },
     {
+      "id": "music_disc_maker",
+      "name": "Music Disc Maker",
+      "version": "3.1.2",
+      "filename": "music_disc_maker-3.1.2+forge-1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "gAWvw3aR"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
@@ -794,9 +807,7 @@
       "filename": "ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
       "required": true,
       "sources": []
-    },
-    {
-      "id": 
+    }
   ],
   "texture_packs": []
 }
