@@ -762,13 +762,15 @@
       "sources": []
     },
     {
-      "id": "",
-      "name": "",
-      "version": "",
-      "filename": "",
+      "id": "item_physic",
+      "name": "Item Physic",
+      "version": "1.8.17",
+      "filename": "ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
       "required": true,
       "sources": []
-    }
+    },
+    {
+      "
   ],
   "texture_packs": []
 }
