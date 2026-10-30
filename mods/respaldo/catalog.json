@@ -43,6 +43,14 @@
       "loader": "Forge",
       "filename": "Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
       "sha256": "450633a9df4f5735ca484beb7168343e3919e182a08fd915fc13e2edb24b0443"
+    },
+    {
+      "id": "legendary_tooltips",
+      "version": "1.4.5",
+      "minecraft_version": "1.20.1",
+      "loader": "Forge",
+      "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "sha256": "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e"
     }
   ]
 }
