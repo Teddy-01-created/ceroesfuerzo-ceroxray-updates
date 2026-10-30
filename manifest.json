@@ -730,6 +730,32 @@
       ]
     },
     {
+      "id": "structurecredits",
+      "name": "Structure Credits",
+      "version": "3.0",
+      "filename": "structurecredits-1.20.1-3.0-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "OYmawp4S"
+        }
+      ]
+    },
+    {
+      "id": "carrasconlib",
+      "name": "Carrascon Lib",
+      "version": "0.1",
+      "filename": "carrasconlib-forge-1.20.1-0.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "DudxDdYO"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
@@ -770,7 +796,7 @@
       "sources": []
     },
     {
-      "
+      "id": 
   ],
   "texture_packs": []
 }
