@@ -35,6 +35,14 @@
       "loader": "Forge",
       "filename": "balm-forge-1.20.1-7.3.44.jar",
       "sha256": "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3"
+    },
+    {
+      "id": "cinematic_interaction",
+      "version": "0.18.30",
+      "minecraft_version": "1.20.1",
+      "loader": "Forge",
+      "filename": "Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
+      "sha256": "450633a9df4f5735ca484beb7168343e3919e182a08fd915fc13e2edb24b0443"
     }
   ]
 }
