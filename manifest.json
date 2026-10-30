@@ -15,15 +15,15 @@
   ],
   "mods": [
     {
-      "id": "securitycraft",
-      "name": "SecurityCraft",
-      "version": "1.10.2.1",
-      "filename": "[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "id": "vehicle_unofficial",
+      "name": "Vehicle Unofficial",
+      "version": "20260413",
+      "filename": "Vehicle-Unofficial-1.20.1.20260413.jar",
       "required": true,
       "sources": [
         {
           "type": "modrinth",
-          "version_id": "PhNy7dJx"
+          "version_id": "85Lkbw5U"
         }
       ]
     },
