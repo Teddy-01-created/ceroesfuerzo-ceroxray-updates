@@ -5,13 +5,12 @@
   "loader": "Forge",
   "mods": [
     {
-      "id": "securitycraft",
-      "name": "SecurityCraft",
-      "version": "1.10.2.1",
+      "id": "jade",
+      "version": "11.13.3",
       "minecraft_version": "1.20.1",
       "loader": "Forge",
-      "filename": "[1.20.1] SecurityCraft v1.10.2.1.jar",
-      "sha256": "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
+      "filename": "Jade-1.20.1-Forge-11.13.3.jar",
+      "sha256": "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4"
     }
   ]
 }
