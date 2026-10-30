@@ -726,6 +726,14 @@
       "filename": "balm-forge-1.20.1-7.3.44.jar",
       "required": true,
       "sources": []
+    },
+    {
+      "id":"cinematic_interaction",
+      "name": "Cinematic Interaction",
+      "version": "0.18.30",
+      "filename": "Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
+      "required": true,
+      "sources": []
     }
   ],
   "texture_packs": []
