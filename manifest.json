@@ -507,6 +507,19 @@
           "version_id": "nudKlXXT"
         }
       ]
+    },
+    {
+      "id": "prism",
+      "name": "Prism",
+      "version": "1.0.5",
+      "filename": "Prism-1.20.1-forge-1.0.5.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "FFyss87M"
+        }
+      ]
     }
   ],
   "texture_packs": []
