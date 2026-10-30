@@ -734,6 +734,14 @@
       "filename": "Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
       "required": true,
       "sources": []
+    },
+    {
+      "id": "legendary_tooltips",
+      "name": "Legendary Tooltips",
+      "version": "1.4.5",
+      "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "required": true,
+      "sources": []
     }
   ],
   "texture_packs": []
