@@ -51,6 +51,14 @@
       "loader": "Forge",
       "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
       "sha256": "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e"
+    },
+    {
+      "id": "item_physic",
+      "version": "1.8.17",
+      "minecraft_version": "1.20.1",
+      "loader": "Forge",
+      "filename": "ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
+      "sha256": "369d11f294bb9e0232b412e1dbfa23e89ea364848c9ea8b475015199d90d32db"
     }
   ]
 }
