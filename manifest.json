@@ -704,6 +704,19 @@
       ]
     },
     {
+      "id":"voice_chat",
+      "name": "Voice Chat",
+      "version": "2.6.27",
+      "filename": "voicechat-forge-1.20.1-2.6.27.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "IZvGk7Np",
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
@@ -736,10 +749,10 @@
       "sources": []
     },
     {
-      "id": "legendary_tooltips",
-      "name": "Legendary Tooltips",
-      "version": "1.4.5",
-      "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "id": "",
+      "name": "",
+      "version": "",
+      "filename": "",
       "required": true,
       "sources": []
     }
