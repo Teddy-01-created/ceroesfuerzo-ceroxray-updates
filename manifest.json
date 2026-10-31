@@ -769,15 +769,15 @@
       ]
     },
     {
-      "id": "spookydoors",
-      "name": "Spooky Doors",
-      "version": "20.1.13",
-      "filename": "spookydoors-forge-1.20.1-20.1.13.jar",
+      "id": "fancy_world_animations",
+      "name": "Fancy World Animations",
+      "version": "1.2.31",
+      "filename": "fwa+1.20.1-forge-1.2.31.jar",
       "required": true,
       "sources": [
         {
           "type": "modrinth",
-          "version_id": "fbJTcL2O"
+          "version_id": "bOJEwehn"
         }
       ]
     },
@@ -817,6 +817,45 @@
         {
           "type": "modrinth",
           "version_id": "kGjMleOz"
+        }
+      ]
+    },
+    {
+      "id": "entity_texture_features",
+      "name": "Entity Texture Features",
+      "version": "7.2.6",
+      "filename": "entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "EAHEZRbp"
+        }
+      ]
+    },
+    {
+      "id": "entity_model_feature",
+      "name": "Entity Model Feature",
+      "version": "3.3.12",
+      "filename": "entity_model_features-3.3.12-1.20.1-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "mQR6L8Qe"
+        }
+      ]
+    },
+    {
+      "id": "punchy_moves",
+      "name": "Punchy Moves",
+      "version": "1.0.2",
+      "filename": "punchy-moves-1.0.2-hotfix2-forge-1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "6X9YAoH7"
         }
       ]
     },
