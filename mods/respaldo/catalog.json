@@ -67,6 +67,14 @@
       "loader": "Forge",
       "filename": "controltime-1.0.0.jar",
       "sha256": "ea0fd09a21ae49e9f8f2d9a21ea9c1170301336458c22acafb0b8bc413ed0405"
+    },
+    {
+      "id": "pooltable",
+      "version": "1.4.3",
+      "minecraft_version": "1.20.1",
+      "loader": "Forge",
+      "filename": "pooltable-forge-1.20.1-1.4.3.jar",
+      "sha256": ""
     }
   ]
 }
