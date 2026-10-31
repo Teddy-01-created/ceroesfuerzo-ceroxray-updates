@@ -872,6 +872,14 @@
       "filename": "ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
       "required": true,
       "sources": []
+    },
+    {
+      "id": "controltime",
+      "name": "Control Time",
+      "version": "1.0.0",
+      "filename": "controltime-1.0.0.jar",
+      "required": true,
+      "sources": []
     }
   ],
   "texture_packs": []
