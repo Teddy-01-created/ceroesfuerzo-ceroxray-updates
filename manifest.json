@@ -906,6 +906,14 @@
       "filename": "controltime-1.0.0.jar",
       "required": true,
       "sources": []
+    },
+    {
+      "id": "pooltable",
+      "name": "Pool Table",
+      "version": "",
+      "filename": "pooltable-forge-1.20.1-1.4.3.jar",
+      "required": true,
+      "sources": []
     }
   ],
   "texture_packs": [
@@ -916,6 +924,15 @@
       "filename": "FreshAnimations_v1.11.1_1.20+.zip",
       "download_url": "https://www.curseforge.com/api/v1/mods/453763/files/9261871/download",
       "sha256": "b6118ad51a43321ffc083d86de9e5e2ba84250ef0c5890e48ae9ee2964bd1a9d"
-    }
+    },
+    {
+      "id": "fluid_foolish",
+      "name": "Fluid & Foolish",
+      "version": "1.0",
+      "filename": "Fluid & Foolish 1.0-hotfix.zip",
+      "download_url": "https://cdn.modrinth.com/data/fQdwNxte/versions/4DiI0DAK/Fluid%20%26%20Foolish%201.0-hotfix.zip?mr_download_reason=standalone",
+      "sha256": "28040cca0b660b41cff8802687392c7775caabc81e9704909ca5eaee7f31ec7d"
+    },
+    {
   ]
 }
