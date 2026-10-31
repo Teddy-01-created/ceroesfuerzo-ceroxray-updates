@@ -59,6 +59,14 @@
       "loader": "Forge",
       "filename": "ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
       "sha256": "369d11f294bb9e0232b412e1dbfa23e89ea364848c9ea8b475015199d90d32db"
+    },
+    {
+      "id": "controltime",
+      "version": "",
+      "minecraft_version": "1.20.1",
+      "loader": "Forge",
+      "filename": "controltime-1.0.0.jar",
+      "sha256": "ea0fd09a21ae49e9f8f2d9a21ea9c1170301336458c22acafb0b8bc413ed0405"
     }
   ]
 }
