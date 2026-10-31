@@ -860,6 +860,19 @@
       ]
     },
     {
+      "id": "animated_hearts",
+      "name": "Animated Hearts",
+      "version": "2.2.0",
+      "filename": "AnimatedHearts-2.2.0.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "aj7chpeB"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
