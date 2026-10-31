@@ -678,19 +678,6 @@
       ]
     },
     {
-      "id": "xaerominimap",
-      "name": "Xaero's Minimap",
-      "version": "26.5.0",
-      "filename": "xaerominimap-forge-1.20.1-26.5.0.jar",
-      "required": true,
-      "sources": [
-        {
-          "type": "modrinth",
-          "version_id": "Juh6inLY"
-        }
-      ]
-    },
-    {
       "id": "zombieawareness",
       "name": "zombieawareness",
       "version": "1.13.1",
