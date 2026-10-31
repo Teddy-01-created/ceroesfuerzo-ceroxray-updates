@@ -910,7 +910,7 @@
     {
       "id": "pooltable",
       "name": "Pool Table",
-      "version": "",
+      "version": "1.4.3",
       "filename": "pooltable-forge-1.20.1-1.4.3.jar",
       "required": true,
       "sources": []
