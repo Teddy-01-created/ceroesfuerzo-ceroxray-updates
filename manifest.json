@@ -769,6 +769,68 @@
       ]
     },
     {
+      "id": "spookytrees",
+      "name": "Spooky Trees",
+      "version": "1.0.1",
+      "filename": "spookytrees-1.0.1-forge-1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "jcsVhTPk"
+        }
+      ]
+    },
+    {
+      "id": "spookydoors",
+      "name": "Spooky Doors",
+      "version": "20.1.13",
+      "filename": "spookydoors-forge-1.20.1-20.1.13.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "fbJTcL2O"
+        }
+      ]
+    },
+    {
+      "id": "punchy",
+      "name": "Punchy",
+      "version": "3.0",
+      "filename": "punchy-3.0-forge-1.20.1-birthday.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "zst5ld2k"
+        }
+      ]
+    },
+    {
+      "id": "firstperson",
+      "name": "First Person",
+      "version": "2.7.3",
+      "filename": "firstperson-forge-2.7.3-mc1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "kxFDUOmS"
+        }
+      ]
+    },
+    {
+      "id": "notenoughanimations",
+      "name": "Not Enough Animations",
+      "version": "1.12.6",
+      "filename": "notenoughanimations-forge-1.12.6-mc1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "kGjMleOz"
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
