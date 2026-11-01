@@ -899,6 +899,19 @@
       ]
     },
     {
+      "id": "spark",
+      "name": "Spark",
+      "version": "1.10.53",
+      "filename": "spark-1.10.53-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "4FXHDE9F"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
