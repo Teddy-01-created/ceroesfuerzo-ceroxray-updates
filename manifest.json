@@ -873,6 +873,32 @@
       ]
     },
     {
+      "id": "ferritecore",
+      "name": "Ferrite Core",
+      "version": "6.0.1",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "DG5Fn9Sz"
+        }
+      ]
+    },
+    {
+      "id": "modernfix",
+      "name": "modernfix",
+      "version": "5.27.91",
+      "filename": "modernfix-forge-5.27.91+mc1.20.1.jar",
+      "required": true,
+      "sources": [
+        {
+          "type": "modrinth",
+          "version_id": "OM5gX4LT"
+        }
+      ]
+    },
+    {
       "id": "framework",
       "name": "Framework",
       "version": "0.8.0",
